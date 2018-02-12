@@ -35,7 +35,7 @@ public class GlobalExceptionHandler {
     }
 
     /**
-     * 无权限异常处理
+     * 无权限访问异常处理
      * @param e
      * @return
      */
